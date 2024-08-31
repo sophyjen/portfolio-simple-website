@@ -7,8 +7,8 @@ This is my personal portfolio website created using HTML and basic CSS. The webs
 - **Contact Page:** Provides an easy way to get in touch with me, featuring a simple and clean contact form.
 
 ## Technologies Used
--HTML
--CSS
+- **HTML**
+- **CSS**
 
 ## How to view
 You can access my portfolio website by visiting [Link]
